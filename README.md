@@ -1,5 +1,3 @@
-<img src="image.jpg" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Vedant👋🏼:
 
 # 💫 About Me:
