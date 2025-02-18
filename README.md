@@ -1,3 +1,7 @@
+<img src="image.jpg" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Vedant👋🏼:
+
 # 💫 About Me:
 🔭 I’m currently working on Building scalable applications, and diving deep into cloud platforms like AWS.<br>👯 I’m looking to collaborate on Innovative Java development projects, cloud architecture, or anything that pushes the boundaries of technology.<br>🤝 I’m looking for help with improving my understanding of advanced cloud integrations and microservices architectures. <br>🌱 I’m currently learning mastering the ins and outs of Problem Solving , cloud technologies, microservices architecture, and modern DevOps practices. I’m also constantly honing my skills in Core Java, exploring the latest frameworks and tools that drive scalable systems.<br>💬 Ask me about anyting related to Java development, cloud technologies, tech trends, or how to start building a career in tech! I also love discussing public speaking, blogging, and how these can complement technical growth.<br>⚡ Fun fact When I'm not coding, you’ll probably find me reading about the latest in tech, speaking at events, or writing blogs to share insights and make complex topics accessible to everyone!<br><br>
 
